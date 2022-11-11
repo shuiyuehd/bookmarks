@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "my-bookmark",
+    "script": "production.js",
+    "cwd": "/repo/gitRepository/shuiyuehd/my-bookmark",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
